@@ -51,6 +51,7 @@ Biology
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
+* _Drug Data Bank <https://www.drugbank.ca/>_
 * `Psychiatric Genomics Consortium <https://www.med.unc.edu/pgc/downloads>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
